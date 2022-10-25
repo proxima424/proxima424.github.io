@@ -12,16 +12,25 @@
     color : white;
 }
 
-.linkk:active{
+.linkk:link{
     color:white;
 }
 
 .linkk:visited{
     color:white;
 }
-
-
-
 .linkk:hover{
+    color:black;
+}
+
+
+.linkk1:link{
+    color:white;
+}
+
+.linkk1:visited{
+    color:white;
+}
+.linkk1:hover{
     color:black;
 }
