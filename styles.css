@@ -12,6 +12,13 @@
     color : white;
 }
 
+.introIcon {
+    color : white;
+    display : flex;
+    space : 10px;
+
+}
+
 .linkk:link{
     color:white;
 }
