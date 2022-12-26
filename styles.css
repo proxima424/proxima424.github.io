@@ -41,3 +41,21 @@
 .linkk1:hover{
     color:black;
 }
+
+.navbar ul {
+    display : flex;
+    justify-content: space-evenly;
+}
+.navbar a {
+        color: white;
+}
+
+  .navbar a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+
+  .socials{
+        color: white;
+
+  }
